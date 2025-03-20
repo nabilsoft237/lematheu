@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Le package `mathutils` est une collection de fonctions mathématiques utiles pour les développeurs Python. Que vous travailliez sur des projets scientifiques, des applications de calcul ou des jeux, `mathutils` fournit des outils pratiques pour faciliter vos tâches.
+Documentation sur un  package `mathutils` .c 'est une collection de fonctions mathématiques utiles pour les développeurs Python. Que vous travailliez sur des projets scientifiques, des applications de calcul ou des jeux, `mathutils` fournit des outils pratiques pour faciliter vos tâches.
 
 ## Installation
 
